@@ -3,6 +3,5 @@ layout: default
 ---
 # Corsi di aggiornamento
 
-*   2023 - Nome del corso
-*   2022 - Nome del corso
-*   2021 - Nome del corso
+*   2022: Corso Linguaggio, identità di genere e lingua italiana, Università Ca’ Foscari di Venezia
+*   2020: Introduction to Humanitarian Translation for Kató Translators - Translators without Borders
